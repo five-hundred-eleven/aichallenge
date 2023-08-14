@@ -1,6 +1,6 @@
 This is an archive of my entry in the 2011 Google AI challenge.
 
-My entry lives in ants/MyBot.py.
+My entry lives in `ants/MyBot.py`.
 
 Incidently this was my first Python project. I taught myself Python in order to
 compete.
